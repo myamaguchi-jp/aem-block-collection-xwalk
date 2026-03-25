@@ -3,8 +3,5 @@
     "/content/ueblock-site/:/",
     "/content/ueblock-site/configuration:/.helix/config.json",
     "/content/ueblock-site/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/ueblock-site/"
   ]
 }
